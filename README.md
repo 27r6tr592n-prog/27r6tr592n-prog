@@ -3,13 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vite,tailwind,supabase,postgres" alt="TypeScript, JavaScript, PHP, Python, React, Next.js, Vite, Tailwind, Supabase, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vite,tailwind,supabase,postgres&theme=dark" alt="TypeScript, JavaScript, PHP, Python, React, Next.js, Vite, Tailwind, Supabase, PostgreSQL" />
 </p>
+
+<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="24" height="24" /> Projetos
 
 - **[AprovaCard](https://github.com/27r6tr592n-prog/aprovacard)**: cartão NFC de avaliação Google · [site](https://aprovacard.com/)
 - **[JMoreira Serviços](https://github.com/27r6tr592n-prog/jmoreira-site)**: site institucional e loja online · [site](https://jmoreiraassistencia.com.br)
+
+<br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="24" height="24" /> Contribuições
 
@@ -26,6 +30,8 @@
   </picture>
 </p>
 
+<br/>
+
 <p align="center">
-  (17) 98226-0141 · <a href="https://www.instagram.com/m.moreira071">@m.moreira071</a> · <a href="https://aprovacard.com/">aprovacard.com</a>
+  <sub>(17) 98226-0141 · <a href="https://www.instagram.com/m.moreira071">@m.moreira071</a> · <a href="https://aprovacard.com/">aprovacard.com</a></sub>
 </p>

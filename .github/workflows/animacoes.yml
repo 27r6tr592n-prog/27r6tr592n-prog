@@ -21,6 +21,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: galaga
 
+      - name: Fundo transparente no Galaga escuro
+        run: |
+          sed -i '0,/<rect width="100%" height="100%" fill="#000000"\/>/s///' dist/galaga-contribution-graph-dark.svg
+          ! grep -q '<rect width="100%" height="100%" fill="#000000"/>' dist/galaga-contribution-graph-dark.svg
+
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v5
         with:
