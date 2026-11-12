@@ -1,12 +1,11 @@
 # Olá, eu sou o Matheus Ferraz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="40" height="40" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Dev+full-stack+em+S%C3%A3o+Jos%C3%A9+do+Rio+Preto;Fundador+da+AprovaCard;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase;Do+banco+de+dados+ao+checkout" alt="Dev full-stack · Fundador da AprovaCard" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Matheus+Ferraz;TypeScript+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Python;React+%C2%B7+Next.js+%C2%B7+Supabase" alt="Matheus Ferraz · TypeScript, JavaScript, PHP, Python" />
 </div>
 
 Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, lojas e produtos web de ponta a ponta: do banco de dados ao checkout, com foco em negócios reais.
 
-- 🚀 Fundador da **[AprovaCard](https://aprovacard.com/)**: cartão NFC que leva o cliente direto para a avaliação no Google
 - 🛠️ No dia a dia: React, Next.js, TypeScript e Supabase
 - 🤖 Explorando integrações com IA em produtos do dia a dia
 
@@ -20,14 +19,6 @@ Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, loja
 | --- | --- | --- |
 | **[AprovaCard](https://github.com/27r6tr592n-prog/aprovacard)** · [site](https://aprovacard.com/) | Cartão NFC de avaliação Google: checkout com Pix e cartão, assinatura, painel admin e CRM | React · Supabase · Asaas · Cloudflare Workers |
 | **[JMoreira Serviços](https://github.com/27r6tr592n-prog/jmoreira-site)** · [site](https://jmoreiraassistencia.com.br) | Site institucional + loja online de uma empresa de assistência técnica (elétrica, hidráulica, energia solar) | Next.js 15 · Tailwind v4 · Supabase · Zod |
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Animals/Snake.png" alt="🐍" width="32" height="32" /> Minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake.svg" />
-  <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake.svg" />
-</picture>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="32" height="32" /> Galaga nas minhas contribuições
 
