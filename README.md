@@ -1,9 +1,8 @@
+# Olá, eu sou o Matheus Ferraz 👋
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:D4AF37&height=200&section=header&text=Matheus%20Ferraz&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Dev%20full-stack%20%C2%B7%20Fundador%20da%20AprovaCard&descAlignY=58&descSize=18" alt="Matheus Ferraz" width="100%" />
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Dev+full-stack+em+S%C3%A3o+Jos%C3%A9+do+Rio+Preto;Fundador+da+AprovaCard;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase;Do+banco+de+dados+ao+checkout" alt="Dev full-stack · Fundador da AprovaCard" />
 </div>
-
-### Olá! 👋
 
 Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, lojas e produtos web de ponta a ponta: do banco de dados ao checkout, com foco em negócios reais.
 
@@ -29,6 +28,18 @@ Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, loja
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake.svg" />
   <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake.svg" />
 </picture>
+
+## 🚀 Galaga nas minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/galaga-contribution-graph.svg" />
+  <img alt="Nave do Galaga atirando no gráfico de contribuições" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/galaga-contribution-graph.svg" />
+</picture>
+
+## 🌈 Contribuições em 3D
+
+<img alt="Gráfico de contribuições em 3D" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/profile-night-rainbow.svg" />
 
 ## 📫 Contato
 

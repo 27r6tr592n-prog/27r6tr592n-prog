@@ -1,4 +1,4 @@
-name: Cobrinha de contribuições
+name: Animações de contribuições
 
 on:
   schedule:
@@ -13,8 +13,10 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
+      - uses: actions/checkout@v5
+
       - name: Gerar a cobrinha
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +24,23 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=#D4AF37
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#D4AF37
+
+      - name: Gerar o Galaga
+        uses: abozanona/pacman-contribution-graph@v5.0.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: galaga
+
+      - name: Gerar o gráfico 3D
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Juntar os arquivos
+        run: |
+          cp profile-3d-contrib/profile-night-rainbow.svg dist/
+          ls -la dist
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v5
