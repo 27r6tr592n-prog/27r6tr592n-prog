@@ -14,8 +14,8 @@ Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, loja
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
-| **[AprovaCard](https://aprovacard.com/)** | Site e checkout do cartão NFC de avaliação Google, com busca da empresa via Google Maps | Vite · React · TypeScript · Supabase |
-| **JMoreira Serviços** | Site institucional + loja online de uma empresa de assistência técnica (elétrica, hidráulica, energia solar) | Next.js 15 · Tailwind v4 · Supabase · Zod |
+| **[AprovaCard](https://github.com/27r6tr592n-prog/aprovacard)** · [site](https://aprovacard.com/) | Cartão NFC de avaliação Google: checkout com Pix e cartão, assinatura, painel admin e CRM | React · Supabase · Asaas · Cloudflare Workers |
+| **[JMoreira Serviços](https://github.com/27r6tr592n-prog/jmoreira-site)** · [site](https://jmoreiraassistencia.com.br) | Site institucional + loja online de uma empresa de assistência técnica (elétrica, hidráulica, energia solar) | Next.js 15 · Tailwind v4 · Supabase · Zod |
 
 ## 📫 Contato
 
