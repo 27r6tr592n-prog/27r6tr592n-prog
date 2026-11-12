@@ -15,24 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v5
-
       - name: Gerar o Galaga
         uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
           games: galaga
-
-      - name: Gerar o gráfico 3D
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Juntar os arquivos
-        run: |
-          cp profile-3d-contrib/profile-night-rainbow.svg dist/
-          ls -la dist
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v5
