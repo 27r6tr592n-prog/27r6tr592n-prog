@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Ferraz 👋
+# Olá, eu sou o Matheus Ferraz <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="40" height="40" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Dev+full-stack+em+S%C3%A3o+Jos%C3%A9+do+Rio+Preto;Fundador+da+AprovaCard;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase;Do+banco+de+dados+ao+checkout" alt="Dev full-stack · Fundador da AprovaCard" />
@@ -10,18 +10,18 @@ Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, loja
 - 🛠️ No dia a dia: React, Next.js, TypeScript e Supabase
 - 🤖 Explorando integrações com IA em produtos do dia a dia
 
-## 🧰 Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People/Man%20Technologist.png" alt="🧑‍💻" width="32" height="32" /> Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📌 Projetos em destaque
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="32" height="32" /> Projetos em destaque
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
 | **[AprovaCard](https://github.com/27r6tr592n-prog/aprovacard)** · [site](https://aprovacard.com/) | Cartão NFC de avaliação Google: checkout com Pix e cartão, assinatura, painel admin e CRM | React · Supabase · Asaas · Cloudflare Workers |
 | **[JMoreira Serviços](https://github.com/27r6tr592n-prog/jmoreira-site)** · [site](https://jmoreiraassistencia.com.br) | Site institucional + loja online de uma empresa de assistência técnica (elétrica, hidráulica, energia solar) | Next.js 15 · Tailwind v4 · Supabase · Zod |
 
-## 🐍 Minhas contribuições
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Animals/Snake.png" alt="🐍" width="32" height="32" /> Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake-dark.svg" />
@@ -29,7 +29,7 @@ Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, loja
   <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/github-snake.svg" />
 </picture>
 
-## 🚀 Galaga nas minhas contribuições
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="32" height="32" /> Galaga nas minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/galaga-contribution-graph-dark.svg" />
@@ -37,11 +37,11 @@ Desenvolvedor full-stack em **São José do Rio Preto/SP**. Construo sites, loja
   <img alt="Nave do Galaga atirando no gráfico de contribuições" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/galaga-contribution-graph.svg" />
 </picture>
 
-## 🌈 Contribuições em 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rainbow.png" alt="🌈" width="32" height="32" /> Contribuições em 3D
 
 <img alt="Gráfico de contribuições em 3D" src="https://raw.githubusercontent.com/27r6tr592n-prog/27r6tr592n-prog/output/profile-night-rainbow.svg" />
 
-## 📫 Contato
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="📞" width="32" height="32" /> Contato
 
 - 📱 Telefone: (17) 98226-0141
 - 📸 Instagram: [@m.moreira071](https://www.instagram.com/m.moreira071)
